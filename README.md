@@ -1,7 +1,4 @@
 # samplestuff
-foo bar
-this is som sdfjksld
-faskdfj
-asdfkjas
-dfkasjdf
-sadkfjkl
+This is some new changes
+i didn't like what was here before
+yay.
